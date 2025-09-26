@@ -1,0 +1,37 @@
+# Privacy Policy
+
+**Last Updated:** September 26, 2025
+
+This Privacy Policy explains how our app handles data and permissions when automating and publishing content to TikTok through the TikTok Developer API.
+
+## What Our App Does
+
+Our app automates the publishing of short-form educational videos to TikTok. All content is created or approved by the account owner in advance.
+
+## What Data We Access
+
+Through TikTok’s official API, our app may access:
+- **Video Files & Captions**: Provided by the account owner for posting.
+- **Account Information**: Basic profile and permissions required to connect the TikTok account.
+- **Engagement Data (optional)**: Public metrics such as views, likes, or comments, to help evaluate performance.
+
+We **do not** collect or access any personal data from TikTok users.
+
+## How We Use the Data
+
+- To upload and publish videos on behalf of the authenticated TikTok account.
+- To retrieve post IDs and engagement metrics to improve content strategy.
+- To maintain authentication tokens for posting (not shared or resold).
+
+## Data Storage and Sharing
+
+- We **do not sell, share, or transfer** TikTok data to third parties.
+- Data is processed only for the purpose of publishing content and analyzing performance.
+- We do not store personally identifiable information (PII) from TikTok users.
+
+## Contact
+
+If you have questions or concerns about this policy, contact:
+
+📧 **Colin Bessell**  
+📨 **colin.bessell@gmail.com**
